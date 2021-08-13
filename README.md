@@ -1,2 +1,2 @@
-# my-rewards-v1
-First version of the My Rewards landing page concept
+# my-rewards
+Concept landing page for member rewards scheme
